@@ -1,0 +1,12 @@
+{
+  "name": "rootbreak",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A dependency-free Claude Code plugin for specification-driven implementation.",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check scripts/contract.js"
+  }
+}

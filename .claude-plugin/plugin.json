@@ -1,0 +1,8 @@
+{
+  "name": "rootbreak",
+  "version": "0.1.0",
+  "description": "Tiered implementation context and a recovery ladder for Claude Code.",
+  "author": { "name": "Dr Mihir Brahme" },
+  "repository": "https://github.com/drmihirbrahme/Rootbreak",
+  "license": "MIT"
+}
